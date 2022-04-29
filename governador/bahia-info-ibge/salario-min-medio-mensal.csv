@@ -1,0 +1,418 @@
+"Local", "Salário médio mensal dos trabalhadores formais"
+"Abaíra", 1.5
+"Abaré", 1.8
+"Acajutiba", 1.9
+"Adustina", 2.0
+"Água Fria", 2.3
+"Érico Cardoso", 1.5
+"Aiquara", 1.9
+"Alagoinhas", 2.1
+"Alcobaça", 1.7
+"Almadina", 1.9
+"Amargosa", 1.5
+"Amélia Rodrigues", 1.8
+"América Dourada", 2.1
+"Anagé", 1.8
+"Andaraí", 1.5
+"Andorinha", 2.5
+"Angical", 1.8
+"Anguera", 1.2
+"Antas", 1.9
+"Antônio Cardoso", 1.4
+"Antônio Gonçalves", 1.3
+"Aporá", 2.1
+"Apuarema", 2.7
+"Aracatu", 1.4
+"Araçás", 1.4
+"Araci", 2.1
+"Aramari", 1.5
+"Arataca", 1.8
+"Aratuípe", 1.8
+"Aurelino Leal", 1.8
+"Baianópolis", 1.9
+"Baixa Grande", 2.1
+"Banzaê", 1.9
+"Barra", 2.1
+"Barra da Estiva", 1.7
+"Barra do Choça", 2.3
+"Barra do Mendes", 1.5
+"Barra do Rocha", 1.8
+"Barreiras", 2.2
+"Barro Alto", 1.8
+"Barrocas", 3.4
+"Barro Preto", 2.1
+"Belmonte", 2.2
+"Belo Campo", 1.7
+"Biritinga", 2.0
+"Boa Nova", 1.9
+"Boa Vista do Tupim", 1.8
+"Bom Jesus da Lapa", 1.8
+"Bom Jesus da Serra", 1.9
+"Boninal", 2.1
+"Bonito", 1.8
+"Boquira", 1.7
+"Botuporã", 2.4
+"Brejões", 1.8
+"Brejolândia", 1.3
+"Brotas de Macaúbas", 2.0
+"Brumado", 1.9
+"Buerarema", 1.7
+"Buritirama", 1.9
+"Caatiba", 1.5
+"Cabaceiras do Paraguaçu", 1.9
+"Cachoeira", 2.0
+"Caculé", 1.5
+"Caém", 2.0
+"Caetanos", 1.4
+"Caetité", 1.9
+"Cafarnaum", 2.3
+"Cairu", 1.6
+"Caldeirão Grande", 1.3
+"Camacan", 2.0
+"Camaçari", 3.6
+"Camamu", 1.8
+"Campo Alegre de Lourdes", 2.1
+"Campo Formoso", 2.1
+"Canápolis", 1.4
+"Canarana", 1.9
+"Canavieiras", 1.7
+"Candeal", 1.7
+"Candeias", 3.1
+"Candiba", 2.1
+"Cândido Sales", 2.1
+"Cansanção", 1.7
+"Canudos", 1.9
+"Capela do Alto Alegre", 2.0
+"Capim Grosso", 1.5
+"Caraíbas", 1.1
+"Caravelas", 1.9
+"Cardeal da Silva", 1.9
+"Carinhanha", 2.2
+"Casa Nova", 1.6
+"Castro Alves", 1.4
+"Catolândia", 1.7
+"Catu", 2.7
+"Caturama", 1.6
+"Central", 2.1
+"Chorrochó", 2.1
+"Cícero Dantas", 1.9
+"Cipó", 2.0
+"Coaraci", 1.8
+"Cocos", 1.9
+"Conceição da Feira", 1.8
+"Conceição do Almeida", 1.5
+"Conceição do Coité", 1.6
+"Conceição do Jacuípe", 1.8
+"Conde", 2.3
+"Condeúba", 1.5
+"Contendas do Sincorá", 1.7
+"Coração de Maria", 1.5
+"Cordeiros", 1.6
+"Coribe", 1.8
+"Coronel João Sá", 2.0
+"Correntina", 2.4
+"Cotegipe", 1.7
+"Cravolândia", 1.6
+"Crisópolis", 2.0
+"Cristópolis", 1.9
+"Cruz das Almas", 2.9
+"Curaçá", 2.0
+"Dário Meira", 2.1
+"Dias d'Ávila", 2.8
+"Dom Basílio", 1.7
+"Dom Macedo Costa", 1.6
+"Elísio Medrado", 1.2
+"Encruzilhada", 1.9
+"Entre Rios", 2.4
+"Esplanada", 1.8
+"Euclides da Cunha", 2.1
+"Eunápolis", 2.3
+"Fátima", 2.2
+"Feira da Mata", 1.7
+"Feira de Santana", 1.9
+"Filadélfia", 2.0
+"Firmino Alves", 1.3
+"Floresta Azul", 1.6
+"Formosa do Rio Preto", 2.3
+"Gandu", 1.6
+"Gavião", 1.5
+"Gentio do Ouro", 1.4
+"Glória", 1.6
+"Gongogi", 1.5
+"Governador Mangabeira", 1.6
+"Guajeru", 1.0
+"Guanambi", 2.0
+"Guaratinga", 2.2
+"Heliópolis", 1.9
+"Iaçu", 1.5
+"Ibiassucê", 1.5
+"Ibicaraí", 1.8
+"Ibicoara", 2.0
+"Ibicuí", 1.6
+"Ibipeba", 1.7
+"Ibipitanga", 1.3
+"Ibiquera", 1.2
+"Ibirapitanga", 2.1
+"Ibirapuã", 1.8
+"Ibirataia", 1.8
+"Ibitiara", 2.0
+"Ibititá", 1.7
+"Ibotirama", 1.8
+"Ichu", 1.6
+"Igaporã", 1.6
+"Igrapiúna", 1.9
+"Iguaí", 1.7
+"Ilhéus", 2.1
+"Inhambupe", 1.8
+"Ipecaetá", 1.2
+"Ipiaú", 1.7
+"Ipirá", 1.7
+"Ipupiara", 1.3
+"Irajuba", 1.8
+"Iramaia", 1.7
+"Iraquara", 2.5
+"Irará", 1.9
+"Irecê", 1.8
+"Itabela", 1.8
+"Itaberaba", 1.6
+"Itabuna", 2.2
+"Itacaré", 1.8
+"Itaeté", 1.3
+"Itagi", 1.8
+"Itagibá", 2.3
+"Itagimirim", 2.1
+"Itaguaçu da Bahia", 1.7
+"Itaju do Colônia", 1.5
+"Itajuípe", 1.9
+"Itamaraju", 1.7
+"Itamari", 2.2
+"Itambé", 2.1
+"Itanagra", 1.9
+"Itanhém", 1.6
+"Itaparica", 1.6
+"Itapé", 1.6
+"Itapebi", 2.1
+"Itapetinga", 1.6
+"Itapicuru", 2.0
+"Itapitanga", 1.6
+"Itaquara", 1.5
+"Itarantim", 1.6
+"Itatim", 1.6
+"Itiruçu", 1.5
+"Itiúba", 2.1
+"Itororó", 1.6
+"Ituaçu", 2.0
+"Ituberá", 1.8
+"Iuiu", 1.9
+"Jaborandi", 2.3
+"Jacaraci", 1.5
+"Jacobina", 2.1
+"Jaguaquara", 1.8
+"Jaguarari", 3.3
+"Jaguaripe", 1.9
+"Jandaíra", 1.7
+"Jequié", 1.8
+"Jeremoabo", 1.9
+"Jiquiriçá", 1.7
+"Jitaúna", 1.9
+"João Dourado", 2.2
+"Juazeiro", 2.1
+"Jucuruçu", 1.5
+"Jussara", 1.9
+"Jussari", 1.7
+"Jussiape", 1.5
+"Lafaiete Coutinho", 1.7
+"Lagoa Real", 1.6
+"Laje", 1.8
+"Lajedão", 1.5
+"Lajedinho", 1.8
+"Lajedo do Tabocal", 1.6
+"Lamarão", 1.9
+"Lapão", 1.6
+"Lauro de Freitas", 1.7
+"Lençóis", 1.8
+"Licínio de Almeida", 1.6
+"Livramento de Nossa Senhora", 1.6
+"Luís Eduardo Magalhães", 2.1
+"Macajuba", 2.4
+"Macarani", 1.5
+"Macaúbas", 1.9
+"Macururé", 1.2
+"Madre de Deus", 4.0
+"Maetinga", 1.5
+"Maiquinique", 1.7
+"Mairi", 1.9
+"Malhada", 1.7
+"Malhada de Pedras", 1.7
+"Manoel Vitorino", 2.3
+"Mansidão", 2.1
+"Maracás", 1.9
+"Maragogipe", 2.1
+"Maraú", 1.7
+"Marcionílio Souza", 2.1
+"Mascote", 1.6
+"Mata de São João", 2.1
+"Matina", 1.8
+"Medeiros Neto", 1.7
+"Miguel Calmon", 1.8
+"Milagres", 1.6
+"Mirangaba", 1.8
+"Mirante", 1.7
+"Monte Santo", 2.1
+"Morpará", 1.7
+"Morro do Chapéu", 2.0
+"Mortugaba", 1.4
+"Mucugê", 1.7
+"Mucuri", 3.2
+"Mulungu do Morro", 1.8
+"Mundo Novo", 2.1
+"Muniz Ferreira", 1.4
+"Muquém do São Francisco", 2.3
+"Muritiba", 1.6
+"Mutuípe", 1.9
+"Nazaré", 1.7
+"Nilo Peçanha", 1.9
+"Nordestina", 2.8
+"Nova Canaã", 1.9
+"Nova Fátima", 1.7
+"Nova Ibiá", 2.0
+"Nova Itarana", 1.4
+"Nova Redenção", 1.5
+"Nova Soure", 1.9
+"Nova Viçosa", 1.7
+"Novo Horizonte", 1.4
+"Novo Triunfo", 1.8
+"Olindina", 1.8
+"Oliveira dos Brejinhos", 1.9
+"Ouriçangas", 2.3
+"Ourolândia", 2.2
+"Palmas de Monte Alto", 1.9
+"Palmeiras", 1.9
+"Paramirim", 1.9
+"Paratinga", 2.1
+"Paripiranga", 2.0
+"Pau Brasil", 1.9
+"Paulo Afonso", 2.1
+"Pé de Serra", 2.0
+"Pedrão", 1.5
+"Pedro Alexandre", 1.7
+"Piatã", 2.1
+"Pilão Arcado", 1.7
+"Pindaí", 2.2
+"Pindobaçu", 1.7
+"Pintadas", 1.8
+"Piraí do Norte", 1.7
+"Piripá", 1.4
+"Piritiba", 2.0
+"Planaltino", 1.6
+"Planalto", 1.8
+"Poções", 1.9
+"Pojuca", 2.7
+"Ponto Novo", 1.7
+"Porto Seguro", 1.9
+"Potiraguá", 1.5
+"Prado", 1.8
+"Presidente Dutra", 1.4
+"Presidente Jânio Quadros", 1.7
+"Presidente Tancredo Neves", 2.0
+"Queimadas", 2.4
+"Quijingue", 2.5
+"Quixabeira", 1.6
+"Rafael Jambeiro", 1.9
+"Remanso", 1.8
+"Retirolândia", 1.4
+"Riachão das Neves", 2.1
+"Riachão do Jacuípe", 1.8
+"Riacho de Santana", 1.8
+"Ribeira do Amparo", 1.7
+"Ribeira do Pombal", 1.8
+"Ribeirão do Largo", 1.5
+"Rio de Contas", 1.5
+"Rio do Antônio", 1.8
+"Rio do Pires", 1.6
+"Rio Real", 1.8
+"Rodelas", 1.6
+"Ruy Barbosa", 1.5
+"Salinas da Margarida", 1.7
+"Salvador", 3.4
+"Santa Bárbara", 1.6
+"Santa Brígida", 1.5
+"Santa Cruz Cabrália", 1.8
+"Santa Cruz da Vitória", 1.7
+"Santa Inês", 1.8
+"Santaluz", 1.9
+"Santa Luzia", 1.6
+"Santa Maria da Vitória", 1.9
+"Santana", 1.7
+"Santanópolis", 1.9
+"Santa Rita de Cássia", 2.1
+"Santa Terezinha", 1.6
+"Santo Amaro", 1.9
+"Santo Antônio de Jesus", 1.7
+"Santo Estêvão", 1.6
+"São Desidério", 2.4
+"São Domingos", 1.6
+"São Félix", 1.4
+"São Félix do Coribe", 1.8
+"São Felipe", 1.7
+"São Francisco do Conde", 5.2
+"São Gabriel", 1.8
+"São Gonçalo dos Campos", 1.9
+"São José da Vitória", 1.4
+"São José do Jacuípe", 1.7
+"São Miguel das Matas", 1.4
+"São Sebastião do Passé", 3.0
+"Sapeaçu", 1.5
+"Sátiro Dias", 1.8
+"Saubara", 1.4
+"Saúde", 1.6
+"Seabra", 1.9
+"Sebastião Laranjeiras", 1.7
+"Senhor do Bonfim", 1.8
+"Serra do Ramalho", 1.8
+"Sento Sé", 2.1
+"Serra Dourada", 1.5
+"Serra Preta", 1.4
+"Serrinha", 1.6
+"Serrolândia", 1.6
+"Simões Filho", 2.2
+"Sítio do Mato", 1.4
+"Sítio do Quinto", 1.7
+"Sobradinho", 2.1
+"Souto Soares", 2.5
+"Tabocas do Brejo Velho", 1.4
+"Tanhaçu", 1.6
+"Tanque Novo", 2.0
+"Tanquinho", 1.7
+"Taperoá", 2.2
+"Tapiramutá", 1.8
+"Teixeira de Freitas", 1.9
+"Teodoro Sampaio", 1.7
+"Teofilândia", 1.9
+"Teolândia", 2.0
+"Terra Nova", 1.6
+"Tremedal", 2.1
+"Tucano", 2.0
+"Uauá", 2.1
+"Ubaíra", 1.7
+"Ubaitaba", 1.8
+"Ubatã", 1.4
+"Uibaí", 1.8
+"Umburanas", 1.6
+"Una", 1.9
+"Urandi", 1.8
+"Uruçuca", 2.0
+"Utinga", 1.5
+"Valença", 1.7
+"Valente", 1.4
+"Várzea da Roça", 1.8
+"Várzea do Poço", 1.6
+"Várzea Nova", 1.9
+"Varzedo", 2.0
+"Vera Cruz", 1.7
+"Vereda", 1.7
+"Vitória da Conquista", 2.0
+"Wagner", 1.5
+"Wanderley", 1.8
+"Wenceslau Guimarães", 1.9
+"Xique-Xique", 1.9
