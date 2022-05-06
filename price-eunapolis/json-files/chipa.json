@@ -1,0 +1,222 @@
+{
+    "codigo": 80,
+    "dataConsulta": "2022-05-03 21:35:21-00:00",
+    "pagina": 1,
+    "totalRegistros": 5,
+    "totalPaginas": 1,
+    "registrosporPagina": 25,
+    "registrosdaPagina": 5,
+    "dias": 72,
+    "categorias": [
+        {
+            "codigo": 6,
+            "descricao": "OUTROS ALIMENTOS"
+        },
+        {
+            "codigo": 5,
+            "descricao": "BISCOITO"
+        }
+    ],
+    "centro": {
+        "latitude": -16.3774464,
+        "longitude": -39.5640832,
+        "raio": 15
+    },
+    "intervaloPreco": {
+        "min": 2,
+        "max": 49
+    },
+    "resultado": [
+        {
+            "produto": {
+                "score": null,
+                "codProduto": "2708501600010946",
+                "tipoNFe": 65,
+                "gtin": null,
+                "anp": null,
+                "ncm": 19059090,
+                "cod_nfce": "4942026476",
+                "ncmGrupo": "OUTROS ALIMENTOS",
+                "descricao": "CHIPA QUEIJO",
+                "precoUnitario": 2,
+                "precoLiquido": 2,
+                "precoBruto": 2,
+                "desconto": null,
+                "unidade": "UN",
+                "data": "2022-05-03 18:36:43-00:00",
+                "intervalo": "há 2 hora(s), 58 minuto(s) e 38 segundo(s)",
+                "timeSpan": 10718,
+                "foto": "https://api.precodahora.sefaz.ba.gov.br/v1/images/default"
+            },
+            "estabelecimento": {
+                "nomeEstabelecimento": "PANIFICADORA E LANCHONETE SABOR REAL",
+                "endLogradouro": "SANTOS DUMONT",
+                "endNumero": "706",
+                "cep": "45820011",
+                "bairro": "CENTRO",
+                "codMunicipio": 2910727,
+                "municipio": "EUNAPOLIS",
+                "uf": "BA",
+                "cnpj": 27085016000109,
+                "telefone": null,
+                "latitude": -16.3728,
+                "longitude": -39.584791,
+                "tentativa": 1,
+                "distancia": 2.2688
+            }
+        },
+        {
+            "produto": {
+                "score": null,
+                "codProduto": "1993183000318689980",
+                "tipoNFe": 65,
+                "gtin": null,
+                "anp": null,
+                "ncm": 19053100,
+                "cod_nfce": "4942815251",
+                "ncmGrupo": "BISCOITO",
+                "descricao": "CHIPA KG PAD. RONDEL",
+                "precoUnitario": 28.9,
+                "precoLiquido": 28.9,
+                "precoBruto": 28.9,
+                "desconto": null,
+                "unidade": "KG",
+                "data": "2022-05-03 20:52:19-00:00",
+                "intervalo": "há 43 minuto(s) e 2 segundo(s)",
+                "timeSpan": 2582,
+                "foto": "https://api.precodahora.sefaz.ba.gov.br/v1/images/default"
+            },
+            "estabelecimento": {
+                "nomeEstabelecimento": "SUPERMERCADOS RONDELLI",
+                "endLogradouro": "DO PEQUI",
+                "endNumero": "138",
+                "cep": "45820000",
+                "bairro": "PIQUI",
+                "codMunicipio": 2910727,
+                "municipio": "EUNAPOLIS",
+                "uf": "BA",
+                "cnpj": 1993183000318,
+                "telefone": "7332811049",
+                "latitude": -16.3716929,
+                "longitude": -39.578354,
+                "tentativa": 1,
+                "distancia": 1.6514
+            }
+        },
+        {
+            "produto": {
+                "score": null,
+                "codProduto": "6353864001811689980",
+                "tipoNFe": 65,
+                "gtin": null,
+                "anp": null,
+                "ncm": 19053100,
+                "cod_nfce": "4942595937",
+                "ncmGrupo": "BISCOITO",
+                "descricao": "CHIPA KG PAD. RONDEL",
+                "precoUnitario": 28.9,
+                "precoLiquido": 28.9,
+                "precoBruto": 28.9,
+                "desconto": null,
+                "unidade": "KG",
+                "data": "2022-05-03 20:18:13-00:00",
+                "intervalo": "há 1 hora(s), 17 minuto(s) e 8 segundo(s)",
+                "timeSpan": 4628,
+                "foto": "https://api.precodahora.sefaz.ba.gov.br/v1/images/default"
+            },
+            "estabelecimento": {
+                "nomeEstabelecimento": "RONDELLI COMERCIO E TRANSPORTE LTDA",
+                "endLogradouro": "SANTOS DUMONT",
+                "endNumero": "998",
+                "cep": "45820082",
+                "bairro": "CENTRO",
+                "codMunicipio": 2910727,
+                "municipio": "EUNAPOLIS",
+                "uf": "BA",
+                "cnpj": 6353864001811,
+                "telefone": "7332815564",
+                "latitude": -16.3730516,
+                "longitude": -39.5878136,
+                "tentativa": 1,
+                "distancia": 2.5784
+            }
+        },
+        {
+            "produto": {
+                "score": null,
+                "codProduto": "6353864000840689980",
+                "tipoNFe": 65,
+                "gtin": null,
+                "anp": null,
+                "ncm": 19053100,
+                "cod_nfce": "4942328716",
+                "ncmGrupo": "BISCOITO",
+                "descricao": "CHIPA KG PAD. RONDEL",
+                "precoUnitario": 28.9,
+                "precoLiquido": 28.9,
+                "precoBruto": 28.9,
+                "desconto": null,
+                "unidade": "KG",
+                "data": "2022-05-03 19:33:40-00:00",
+                "intervalo": "há 2 hora(s), 1 minuto(s) e 41 segundo(s)",
+                "timeSpan": 7301,
+                "foto": "https://api.precodahora.sefaz.ba.gov.br/v1/images/default"
+            },
+            "estabelecimento": {
+                "nomeEstabelecimento": "RONDELLI COMERCIO E TRANSPORTE LTDA",
+                "endLogradouro": "DOUTOR PAULO SOUTO",
+                "endNumero": "654",
+                "cep": "45821066",
+                "bairro": "DOUTOR GUSMAO",
+                "codMunicipio": 2910727,
+                "municipio": "EUNAPOLIS",
+                "uf": "BA",
+                "cnpj": 6353864000840,
+                "telefone": null,
+                "latitude": -16.3683516,
+                "longitude": -39.5859778,
+                "tentativa": 1,
+                "distancia": 2.5454
+            }
+        },
+        {
+            "produto": {
+                "score": null,
+                "codProduto": "5846287000512626503",
+                "tipoNFe": 65,
+                "gtin": null,
+                "anp": null,
+                "ncm": 19012000,
+                "cod_nfce": "4942588368",
+                "ncmGrupo": "OUTROS ALIMENTOS",
+                "descricao": "CHIPA TRADICIONAL KG",
+                "precoUnitario": 49,
+                "precoLiquido": 49,
+                "precoBruto": 49,
+                "desconto": null,
+                "unidade": "KG",
+                "data": "2022-05-03 20:17:03-00:00",
+                "intervalo": "há 1 hora(s), 18 minuto(s) e 18 segundo(s)",
+                "timeSpan": 4698,
+                "foto": "https://api.precodahora.sefaz.ba.gov.br/v1/images/default"
+            },
+            "estabelecimento": {
+                "nomeEstabelecimento": "CAMBUI SUPERMERCADOS",
+                "endLogradouro": "DEMETRIO COUTO GUERRIERI",
+                "endNumero": "22",
+                "cep": "45820095",
+                "bairro": "CENTRO",
+                "codMunicipio": 2910727,
+                "municipio": "EUNAPOLIS",
+                "uf": "BA",
+                "cnpj": 5846287000512,
+                "telefone": null,
+                "latitude": -16.376199,
+                "longitude": -39.586477,
+                "tentativa": 9,
+                "distancia": 2.3931
+            }
+        }
+    ],
+    "tempoResposta": 0.013769865036010742
+}
